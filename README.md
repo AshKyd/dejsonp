@@ -4,10 +4,10 @@ Little thing to parse JSONp to JSON.
 
 There are two usage modes: exec and guess.
 
-# Exec mode executes the jsonp in a sandbox and is useful for when the jsonp
-  container contains regular JS syntax.
-# Guess mode attempts to strip the jsonp callback from the string and parse it
-  with JSON.parse.
+1. Exec mode executes the jsonp in a sandbox and is useful for when the jsonp
+   container contains regular JS syntax.
+2. Guess mode attempts to strip the jsonp callback from the string and parse it
+   with JSON.parse.
 
 Usage
 -----
