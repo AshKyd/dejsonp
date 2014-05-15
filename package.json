@@ -1,0 +1,23 @@
+{
+  "name": "dejsonp",
+  "version": "0.0.1",
+  "description": "Convert jsonp to json.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AshKyd/dejsonp.git"
+  },
+  "keywords": [
+    "jsonp",
+    "json"
+  ],
+  "author": "Ash Kyd <ash@kyd.com.au>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AshKyd/dejsonp/issues"
+  },
+  "homepage": "https://github.com/AshKyd/dejsonp",
+  "devDependencies": {
+    "sandbox": "^0.8.4"
+  }
+}
